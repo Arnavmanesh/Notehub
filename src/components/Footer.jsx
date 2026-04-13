@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="container footer-content">
                 <p>&copy; 2026 NotesHub. Organized for Computer Science Engineering students.</p>
                 <p className="author-credit">
-                    All notes are written by <a href="https://www.instagram.com/roshan_b_panicker/" target="_blank" rel="noopener noreferrer" className="author-link" style={{ textDecoration: 'none' }}><span>Roshan B Panicker</span></a>
+                    Notes by <a href="https://www.instagram.com/roshan_b_panicker/" target="_blank" rel="noopener noreferrer" className="author-link" style={{ textDecoration: 'none' }}><span>Roshan B Panicker</span></a>
                 </p>
             </div>
         </footer>
