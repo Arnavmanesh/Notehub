@@ -40,10 +40,10 @@ const subjectsData = [
         syllabusLink: "https://drive.google.com/file/d/11AMk0Uc09lrm6o0lUz9xslKVo9UEDbXR/view?usp=sharing",
         modelPaperLink: "https://drive.google.com/file/d/10ghl1R3XH7ApFjXSXsQ30SskPNbIJ5Lv/view?usp=sharing",
         modules: [
-            { badge: "Module 1", title: "Database Concepts & ER Modelling", description: "System architecture, data models, Entity-Relationship (ER) model, attributes, keys, and structural constraints.", link: "#" },
-            { badge: "Module 2", title: "Relational Model & SQL", description: "Relational database constraints, algebra, calculus, and Structured Query Language (SQL) data manipulation.", link: "#" },
+            { badge: "Module 1", title: "Database Concepts & ER Modelling", description: "System architecture, data models, Entity-Relationship (ER) model, attributes, keys, and structural constraints.", link: "https://drive.google.com/file/d/1jQ-5rNRDkN5pQFGLM4e0yYs84HksArhS/view?usp=sharing" },
+            { badge: "Module 2", title: "Relational Model & SQL", description: "Relational database constraints, algebra, calculus, and Structured Query Language (SQL) data manipulation.", link: "https://drive.google.com/file/d/11fLI581N0YS6c5c9aCD0qUCKiLxduWZr/view?usp=drive_link" },
             { badge: "Module 3", title: "Normalization & Transactions", description: "Functional dependencies, 1NF to 3NF, concurrency control, locking techniques, and database recovery.", link: "https://drive.google.com/file/d/1gv-iaP3sRxQ60a5hfgoKVAbpvk-pvU4o/view?usp=sharing" },
-            { badge: "Module 4", title: "Introduction To NoSQL", description: "CAP Theorem, BASE properties, Key value stores, Graph stores, Column Family, and Document stores.", link: "#" }
+            { badge: "Module 4", title: "Introduction To NoSQL", description: "CAP Theorem, BASE properties, Key value stores, Graph stores, Column Family, and Document stores.", link: "https://drive.google.com/file/d/1nP0rQOi4ThYBAUznNHZ2LWSnXOVQ1yUg/view?usp=drive_link" }
         ]
     },
     {
@@ -64,10 +64,10 @@ const subjectsData = [
         syllabusLink: "https://drive.google.com/file/d/19Rkk9j5RZ_xfz8F9IWmtoIXFdD0cqVBB/view?usp=sharing",
         modelPaperLink: "https://drive.google.com/file/d/1bb9RXbOLWchmnlazTVgNMcXg-G4xX3uR/view?usp=drive_link",
         modules: [
-            { badge: "Module 1", title: "Basic Structure & RISC vs CISC", description: "Functional units, memory maps, assembly language, addressing modes, and stored program concepts.", link: "#" },
-            { badge: "Module 2", title: "Microarchitecture & Pipelining", description: "Single-cycle processor datapath/control, pipelined datapath, solving data/control hazards, and performance.", link: "#" },
-            { badge: "Module 3", title: "Memory Systems", description: "Cache concepts, mapping, write policies, virtual memory address translation, page tables, and memory protection.", link: "#" },
-            { badge: "Module 4", title: "Input / Output Systems", description: "External devices, I/O modules, Programmed/Interrupt Driven I/O, DMA, and Embedded Serial I/O.", link: "#" }
+            { badge: "Module 1", title: "Basic Structure & RISC vs CISC", description: "Functional units, memory maps, assembly language, addressing modes, and stored program concepts.", link: "https://drive.google.com/file/d/1Avh394-bbQNHnyoqOz-bfVrwDPuRk1On/view?usp=drive_link" },
+            { badge: "Module 2", title: "Microarchitecture & Pipelining", description: "Single-cycle processor datapath/control, pipelined datapath, solving data/control hazards, and performance.", link: "https://drive.google.com/file/d/1gCaZqJmyqqMGYNZpkC7xBXu1RdFU4_GU/view?usp=drive_link" },
+            { badge: "Module 3", title: "Memory Systems", description: "Cache concepts, mapping, write policies, virtual memory address translation, page tables, and memory protection.", link: "https://drive.google.com/file/d/1UBDFKl1Zg62iE5Q38ZAjCHsb_T0sAP33/view?usp=drive_link" },
+            { badge: "Module 4", title: "Input / Output Systems", description: "External devices, I/O modules, Programmed/Interrupt Driven I/O, DMA, and Embedded Serial I/O.", link: "https://drive.google.com/file/d/1pd3TKcN0F2_vOk5cm_XNLrRU8OQA7cPH/view?usp=drive_link" }
         ]
     }
 ];
